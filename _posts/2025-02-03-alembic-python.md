@@ -1,14 +1,14 @@
 ---
 author:
-    name: "Thinh Dang"
-    avatar: "/assets/images/avatar.png"
+    name: "Zeyad khaled"
+    avatar: "/assets/images/me.png"
     bio: "Experienced Fintech Software Engineer Driving High-Performance Solutions"
-    location: "Viet Nam"
-    email: "thinhdang206@gmail.com"
+    location: "Egypt"
+    email: "zeyadkhaled20016@gmail.com"
     links:
         -   label: "Linkedin"
             icon: "fab fa-fw fa-linkedin"
-            url: "https://www.linkedin.com/in/thinh-dang/"
+            url: "https://www.linkedin.com/in/zeyad-khaled-9a6850223/"
 toc: true
 toc_sticky: true
 header:
